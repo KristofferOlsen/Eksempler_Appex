@@ -8,3 +8,5 @@ Programmene som er laget i Visual Basic er tidligere skole prosjekter, som jeg m
 Jeg inkludere min "Summary Site", som jeg brukte for å teste alle mulige koder og kombinasjoner.
 
 Jeg er ingen proff by any stretch of the imagination, men jeg klarer gode deler med HTML og CSS. Derimot så trenger jeg litt øvelse anngående JavaScript og Swift for iOS utvikling.
+
+Bare ignorer den andre branch-en, bare testa om det fungerte.
